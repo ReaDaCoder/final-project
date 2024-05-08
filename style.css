@@ -14,9 +14,17 @@ h1{
 }
 .head{
     color: hsl(0, 36%, 70%);
+    font-family: "Josefin Sans", sans-serif;
+  font-optical-sizing: auto;
+  font-weight: 300px;
+  font-style: normal;
 }
 .heading{
     color: hsl(0, 6%, 24%);
+    font-family: "Josefin Sans", sans-serif;
+  font-optical-sizing: auto;
+  font-weight: 300px;
+  font-style: normal;
 }
 p{
     color: hsl(0, 36%, 70%);
